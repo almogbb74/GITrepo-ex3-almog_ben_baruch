@@ -1,7 +1,7 @@
 public class Almog {
     public static void main(String[] args) {
         for (int i = 0; i < 5; i++) {
-            System.out.println("Almog is doing the exercise!");
+            System.out.println("Almog is testing!");
         }
     }
 }
